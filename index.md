@@ -1,4 +1,4 @@
-# h1 Tipos de juegos
+# Tipos de juegos
 
 
 ___
